@@ -1,2 +1,0 @@
-# patientslist
-Created with CodeSandbox
